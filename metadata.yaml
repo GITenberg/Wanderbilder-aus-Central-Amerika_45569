@@ -1,0 +1,43 @@
+_repo: Wanderbilder-aus-Central-Amerika_45569
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Gerstäcker, Friedrich
+    aliases:
+    - Gerstaecker, Frederick
+    - Gerstäcker, Friedrich Wilhelm Christian
+    - Gerstacker, Friedrich
+    birthdate: 1816
+    deathdate: 1872
+    gutenberg_agent_id: '8053'
+    url: http://www.gutenberg.org/2009/agents/8053
+    wikipedia: http://de.wikipedia.org/wiki/Friedrich_Gerst%C3%A4cker
+covers:
+- cover_type: archival
+  image_path: 45569-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Heine, Wilhelm
+    aliases:
+    - Heine, Peter Bernhard Wilhelm
+    - Heine, William
+    birthdate: 1827
+    deathdate: 1885
+    gutenberg_agent_id: '43358'
+    url: http://www.gutenberg.org/2009/agents/43358
+description: ''
+gutenberg_issued: '2014-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45569'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1501'
+- !lcsh 'Honduras -- Description and travel'
+- !lcsh 'Central America -- Description and travel'
+- !lcsh 'Nicaragua -- Description and travel'
+title: Wanderbilder aus Central-Amerika. Skizzen eines deutschen Malers
+url: http://www.gutenberg.org/ebooks/45569
