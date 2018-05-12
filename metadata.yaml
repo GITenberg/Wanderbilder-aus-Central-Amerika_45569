@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '43358'
     url: http://www.gutenberg.org/2009/agents/43358
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45569#Wanderbilder-aus-Central-Amerika
 gutenberg_issued: '2014-05-03'
 gutenberg_type: Text
 identifiers:
